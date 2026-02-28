@@ -1,17 +1,64 @@
-👋 Olá, eu sou o Gustavo
+<h2 align="center">Hi there, I'm Gustavo 👋</h2>
 
-💻 Construo projetos que equilibram simplicidade, performance e experiência do usuário.
-🚀 Atualmente focado em Flutter, NestJS e Next.js, mas sempre aberto para aprender algo novo.
-⚡ Curto transformar ideias em projetos reais e compartilhar conhecimento no caminho.
-✨ Criador do [**MotoWave**](https://www.motowave.com.br)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Software+Developer;Flutter+%7C+NestJS+%7C+Next.js;Building+MotoWave" alt="Typing SVG" />
+  </a>
+</div>
 
-🛠️ Tecnologias & Ferramentas
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="40" height="40" alt="Dart"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" height="40" alt="NestJS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" alt="PHP"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" height="40" alt="Firebase"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/> </div>
+<br/>
 
-📊 Estatísticas
-<div align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=imp-zeref&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imp-zeref&layout=compact&langs_count=8&theme=dracula"/> </div>
+## 👨‍💻 About Me
 
-📬 Onde me encontrar
-<div align="center"> <a href="https://instagram.com/zeref.rider" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="mailto:gustavof.santosdev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/gustavofsdev" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div>
+- 💻 I build projects that balance simplicity, performance, and user experience.
+- 🚀 Currently focusing on **Flutter**, **NestJS**, and **Next.js**, while always open to exploring new technologies.
+- 🎓 Degree in Systems Analysis and Software Development.
+- ⚡ I love turning ideas into real-world applications and sharing knowledge along the way.
+- ✨ Creator of [**MotoWave**](https://www.motowave.com.br).
 
-🔹 “Código limpo é mais do que escrever software que funciona. É escrever software que continua funcionando e evoluindo.”
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<h3>📱 Frontend & Mobile</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,tailwind" alt="Frontend and Mobile Icons"/>
+</a>
+
+<h3>⚙️ Backend & Languages</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,php,nestjs" alt="Backend and Languages Icons"/>
+</a>
+
+<h3>🗄️ Database & Cloud</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,firebase,aws" alt="Database and Cloud Icons"/>
+</a>
+
+<h3>🛠️ DevOps & Tools</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,figma" alt="DevOps and Tools Icons"/>
+</a>
+
+</div>
+
+<br/>
+
+## 📬 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gustavofsdev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:gustavof.santosdev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://instagram.com/zeref.rider" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
+
+---
+<div align="center">
+  <em>"Clean code is more than writing software that works. It’s writing software that continues working and evolving."</em>
+</div>
